@@ -1,0 +1,8 @@
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 1\HomeWork_1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 1\HomeWork_1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 1\HomeWork_1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 1\HomeWork_1\ConsoleApp2\obj\Debug\HomeWork_1_Task_3.csproj.SuggestedBindingRedirects.cache
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 1\HomeWork_1\ConsoleApp2\obj\Debug\HomeWork_1_Task_3.csproj.CoreCompileInputs.cache
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 1\HomeWork_1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 1\HomeWork_1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\2. Основы языка C#\Урок 1\HomeWork_1\ConsoleApp2\obj\Debug\HomeWork_1_Task_3.csproj.AssemblyReference.cache
